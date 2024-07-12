@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "system": "PC",
+    "color": "#2ecc71"
+  },
+  {
+    "id": 2,
+    "system": "Nintendo Switch",
+    "color": "#e74c3c"
+  },
+  {
+    "id": 3,
+    "system": "PlayStation 4",
+    "color": "#3498db"
+  },
+  {
+    "id": 4,
+    "system": "PlayStation 2",
+    "color": "#95a5a6"
+  },
+  {
+    "id": 5,
+    "system": "Mobile",
+    "color": "#9b59b6"
+  }
+]
